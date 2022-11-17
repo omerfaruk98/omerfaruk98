@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @omerfaruk98
+- 👀 I’m interested in project...
+- 🌱 I’m currently learning computer science...
+- 💞️ I’m looking to work freelance ...
+- 📫 How to reach me omerfaruktuncerr@gmail.com...
+
+<!---
+Hi everybody!
+My name is Omer Faruk Tuncer.
+i live in istanbul.
+i prefer working projects not specific jobs so if you want from me to build a team i definetly help for that.
+Note:  project must be software project!!!
+--->
